@@ -6,8 +6,28 @@
 	<dict>
 		<key>parstagram.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>6</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>286480B6254201D8006483B6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>286480CC254201DB006483B6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>286480D7254201DB006483B6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
